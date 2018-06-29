@@ -3,7 +3,7 @@
 The code in the class "Pub" violates a lot of clean code principles.  Refactor the code using TDD and Clean Code principles so that it
 is more extensible and easy to use.
 
-The requirements of a Pub are:
+The requirements are:
 
 1) Can process a drink order from a customer and return a price.  A drink order contains an unlimited amount of drinks and a customer.  The drinks available are Beer, Wine, Rum and Coke, and Gin and Tonic.
 2) Types of customers are "Regular", "Senior" and "Student".  Students get a 10% discount.  Seniors get a 20% discount.
