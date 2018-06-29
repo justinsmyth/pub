@@ -13,5 +13,5 @@ The requirements are:
 
 Bonus points:
 
-1) Pub can calculate calories for a drink order.  Calories are also based on volume.  There are 12 calories in an oz of beer, 24 calories in an oz of wine, and 71 calories in an oz of liquor.
+1) Calculate calories for a drink order.  Calories are also based on volume.  There are 12 calories in an oz of beer, 24 calories in an oz of wine, and 71 calories in an oz of liquor.
 2) Customers can now order food in an order.  How would that impact existing design?
